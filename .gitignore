@@ -1,0 +1,11 @@
+# Données WESAD (licence académique, ne pas publier)
+WESAD/
+WESAD.zip
+*.pkl
+
+# Fichiers intermédiaires générés par le notebook
+wesad_windows_10s.csv
+
+# Python / Jupyter
+__pycache__/
+.ipynb_checkpoints/
